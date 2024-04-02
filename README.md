@@ -1,4 +1,5 @@
 # Customer Churn Analysis using Logistic Regression
+![Customer-Churn](https://github.com/sangjun927/customer-churn-analysis/assets/36908657/a563b8f2-da9b-4d9c-8dce-03313e787e45)
 
 ## Project Overview
 This project, undertaken as part of the MSDS 601 course at the University of San Francisco, focuses on analyzing customer churn for a California-based Telco company. The aim is to understand the factors influencing churn and devise strategies to reduce the churn rate by at least 10% by year-end.
