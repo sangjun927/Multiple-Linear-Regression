@@ -29,7 +29,7 @@ Logistic regression was employed to model the probability of churn, considering 
 
 ## Model Diagnosis and Selection
 - **Challenges:** Addressed multicollinearity and influential data points to refine the model
-- **Final Model Selection:** Based on Recall score, the reduced model outperformed the full model, leading to its selection for further analysis
+- **Final Model Selection:** Based on Recall score, the reduced model (0.85) outperformed the full model (0.828), leading to its selection for further analysis
 
 ## Key Findings
 - Factors such as senior citizen status, phone service, contract length, and payment method significantly affect churn probabilities.
